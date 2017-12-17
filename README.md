@@ -1,6 +1,6 @@
 # Market-Research-Analysis
 
-##Introduction
+## Introduction
 We built a data model to predict the type of business/products that would thrive at a
 given Geo-Location by analyzing the data retrieved from crowd-sourced platforms like Yelp.
 Yelp API was used to retrieve information categorically based on the given business product Id
@@ -10,7 +10,7 @@ Visualization techniques were used to present a visual communication of the data
 Learning algorithms were implemented to help in prediction and in checking the accuracy of the
 model built.
 
-##Requirements  
+## Requirements  
 
 Works on Python 2 as of now.
 
@@ -28,7 +28,7 @@ Scikit-learn is a free software machine learning library for the Python programm
 'pip install -U scikit-learn'
 
 
-##Data Normalization
+## Data Normalization
 Data Normalization is a method used to standardize the range of independent variables or features of data. It is generally performed during the data preprocessing step.
 
 f_norm = (f - f_mean) / (f_max - f_min)
