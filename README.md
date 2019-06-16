@@ -14,18 +14,21 @@ model built.
 
 Works on Python 2 as of now.
 
-'pip install python'
+```bash
+pip install python
+
+```
 
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
-'pip install pandas'
+```bash pip install pandas```
 
 matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 
-'sudo pip install python-matplotlib'
+```bash sudo pip install python-matplotlib```
 
 Scikit-learn is a free software machine learning library for the Python programming language
-'pip install -U scikit-learn'
+```bash pip install -U scikit-learn```
 
 
 ## Data Normalization
