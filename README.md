@@ -21,17 +21,25 @@ pip install python
 
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
-```bash pip install pandas```
+```bash 
+pip install pandas
+```
 
 matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 
-```bash sudo pip install python-matplotlib```
+```bash 
+sudo pip install python-matplotlib
+```
 
 Scikit-learn is a free software machine learning library for the Python programming language
-```bash pip install -U scikit-learn```
+```bash 
+pip install -U scikit-learn
+```
 
 
 ## Data Normalization
 Data Normalization is a method used to standardize the range of independent variables or features of data. It is generally performed during the data preprocessing step.
-
+```math
 f_norm = (f - f_mean) / (f_max - f_min)
+```
+
